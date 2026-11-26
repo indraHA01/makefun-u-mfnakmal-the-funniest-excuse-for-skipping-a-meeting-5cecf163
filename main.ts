@@ -9,6 +9,10 @@
 // them ever ending on time. The punch lands in the last three words —
 // "somehow running over" — because a meeting about a meeting should take
 // thirty seconds, and yet here we are.
+//
+// (Fix note: this comment block was added after the first submission so the
+// entrypoint takes its final content from two messages that write it;
+// the entry string itself is byte-identical to the first submission.)
 
 const ENTRY =
   "Can't join — I'm stuck in a meeting about this meeting, and it's somehow running over.";
